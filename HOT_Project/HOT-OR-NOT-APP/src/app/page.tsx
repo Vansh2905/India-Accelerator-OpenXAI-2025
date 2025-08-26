@@ -63,7 +63,7 @@ export default function Home() {
         
         <div className="space-y-6">
           {/* File Upload */}
-          <div className="border-2 border-dashed border-black rounded-lg p-6 text-center">
+          <div className="border-5 border-dotted border-black rounded-lg p-6 text-center">
             <input
               type="file"
               accept="image/*"
